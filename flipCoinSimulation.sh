@@ -61,3 +61,5 @@ do
 	fi
 done
 }
+flipCoin
+echo $res
